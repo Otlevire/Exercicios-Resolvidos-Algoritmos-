@@ -2,10 +2,10 @@
 ** Enunciado: 2.3- Desenvolva um programa para ler um numero qualquer e 
 mostrar na tela o algarismo das dezenas.
 
-** Autor................: Erivelto Clenio da Costa e Silva(Otlevire).
+** Autor................: Erivelto Clenio da Costa e Silva (Otlevire).
 ** Entrada..............: Um numero inteiro.
 ** Saida................: A soma do triplo do sucessor pelo dobro do antecessor
-** Data de Implementacaoo: 11/06/2023.
+** Data de Implementacao: 11/06/2023.
 */
 
 #include <stdio.h>
