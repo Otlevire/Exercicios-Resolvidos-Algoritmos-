@@ -1,11 +1,11 @@
 /*
-** Enunciado: 2.1- Desenvolva um programa para trocar o valor de duas variáveis,
-a e b de modo que, no fim da execução, b possua o valor de a e vice-versa.
+** Enunciado: 2.1- Desenvolva um programa para trocar o valor de duas variaveis,
+a e b de modo que, no fim da execucaoo, b possua o valor de a e vice-versa.
 
-** Autor................: Erivelto Clénio da Costa e Silva
-** Entrada..............: Dois números
-** Saida................: Os dois números trocados
-** Data de Implementação: 11/06/2023
+** Autor................: Erivelto Clenio da Costa e Silva
+** Entrada..............: Dois numeros
+** Saida................: Os dois numeros trocados
+** Data de Implementacaio: 11/06/2023
 */
 
 #include <stdio.h>
