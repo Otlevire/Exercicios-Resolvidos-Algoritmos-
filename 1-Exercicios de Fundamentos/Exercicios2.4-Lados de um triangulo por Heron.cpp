@@ -6,7 +6,7 @@ de Heron: Area = sqrt(s(s-a)(s-b)(s-c)), onde s = (a+b+c)/2;
 ** Autor................: Erivelto Clenio da Costa e Silva.
 ** Entrada..............: Os tres valores dos lados.
 ** Saida................: O valor da area calculada.
-** Data de Implementa��o: 11/06/2023.
+** Data de Implementacao: 11/06/2023.
 */
 
 #include <Math.h>
